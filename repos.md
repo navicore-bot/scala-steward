@@ -3,3 +3,7 @@
 - dtlaboratory/dtlab-ingest-scala-alligator
 - dtlaboratory/dtlab-ingest-mqtt
 - dtlaboratory/authz-verify-proxy
+- navicore/naviblob
+- navicore/navipath
+- navicore/akka-eventhubs
+- navicore/ehtail
