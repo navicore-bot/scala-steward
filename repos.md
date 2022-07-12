@@ -1,9 +1,12 @@
 # repos.md
-- dtlaboratory/dtlab-scala-alligator
-- dtlaboratory/dtlab-ingest-scala-alligator
-- dtlaboratory/dtlab-ingest-mqtt
 - dtlaboratory/authz-verify-proxy
-- navicore/naviblob
-- navicore/navipath
+- dtlaboratory/dtlab-ingest-mqtt
+- dtlaboratory/dtlab-ingest-scala-alligator
+- dtlaboratory/dtlab-scala-alligator
+- navicore/NaviPath
 - navicore/akka-eventhubs
 - navicore/ehtail
+- navicore/lots-of-names
+- navicore/naviblob
+- navicore/navilake
+- navicore/navipath
